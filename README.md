@@ -1,4 +1,4 @@
-# Hi there 👋, I'm ABOBAKER HAMID
+# Hi there 👋, I'm OSAMA MEFTAH
 
 ### 🚀 Software Engineer | Full-Stack & Mobile Developer
 I am a passionate developer specializing in building scalable mobile applications with **Flutter** and robust backend systems using **Django** and **Laravel**.
