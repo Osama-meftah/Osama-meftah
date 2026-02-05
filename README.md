@@ -28,7 +28,7 @@ Check out some of my work on [Osama-meftah](https://github.com/Osama-meftah):
 * **[Auction App](https://github.com/Osama-meftah?tab=repositories)**: Real-time auction platform using Flutter.
 * **[E-commerce System](https://github.com/Osama-meftah?tab=repositories)**: Full-stack application with Next.js & Laravel.
 * **[University Timetable](https://github.com/Osama-meftah?tab=repositories)**: Scheduling logic built with Django.
-* **[Portfolio Web](https://github.com/Osama-meftah?tab=repositories)**: Modern UI using React & Tailwind CSS.
+* **[Travel App](https://github.com/Osama-meftah?tab=repositories)**: Modern UI using React & Tailwind CSS.
 
 > 💡 *Explore more of my code in the [Repositories tab](https://github.com/Osama-meftah?tab=repositories)!*
 
