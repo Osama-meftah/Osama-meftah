@@ -49,7 +49,8 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 * 📱 **WhatsApp:** [+967776385629](https://wa.me/967776385629)
 * 💼 **LinkedIn:** [Your LinkedIn Profile Here]
 
+  
 ---
 <p align="center">
-  ✨ <i>“Code is the language of the future, and I’m a native speaker.”</i>
+  <i>✨ *Always learning new technologies and improving my skills* ✨</i>
 </p>
